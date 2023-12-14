@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackjburnett
-- 🌱 I’m currently a PhD student messing around with Java development. 
+- 🌱 I’m currently a PhD student messing around with AI. 
 - 👀 I’m interested in developing small-scale projects.
 
 <!---
